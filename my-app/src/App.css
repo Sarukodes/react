@@ -1,0 +1,66 @@
+body {
+  background-color: pink;
+  color: black;
+  border-style: solid;
+  width: 40%;
+  margin-top: 80px;
+  margin-left: 440px;
+
+
+}
+
+.box {
+  background-color: skyblue;
+}
+
+.header {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  /* margin: 20px; */
+}
+
+.text {
+  font-size: 25px;
+  width: 400px;
+  margin: 15px;
+}
+
+.add {
+  font-size: 25px;
+  background-color: aqua;
+}
+
+.list-heading {
+  font-size: 18px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.listData {
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+.remove {
+  font-size: 15px;
+  background-color: red;
+  border-color: red;
+  margin-left: 18px;
+}
+
+.edit {
+  font-size: 15px;
+  background-color: green;
+  border-color: green;
+  margin-left: 10px;
+}
+
+.all {
+  font-size: 15px;
+  background-color: darkred;
+  border-color: darkred;
+  margin-bottom: 18px;
+  margin: 18px;
+  color: white;
+}
